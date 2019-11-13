@@ -5,8 +5,8 @@ import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 /*
- *
  * @author David nilo
+ * on 12/11/2019.
  */
 public class MainActivity extends AppCompatActivity {
 

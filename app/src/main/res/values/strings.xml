@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">financas2</string>
+    <string name="app_name">Sistema</string>
+    <string name="salvar">Salvar</string>
+    <string name="voltar">Voltar</string>
+    <string name="conta_obrigatorio">A conta é de preenchimento obrigatório!</string>
+    <string name="valor_obrigatorio">O valor é de preenchimento obrigatório!</string>
+    <string name="registro_salvo_sucesso">Registro salvo com sucesso!</string>
 </resources>
